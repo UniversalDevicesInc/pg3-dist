@@ -1,3 +1,1 @@
-This repository contains the PG3 distribution
-
-
+This repository contains the PG3/PG3x distributions
